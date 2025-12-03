@@ -1,0 +1,286 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2865
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 AppleColorEmoji;\f1\froman\fcharset0 Times-Bold;\f2\froman\fcharset0 Times-Roman;
+\f3\fmodern\fcharset0 Courier;\f4\fmodern\fcharset0 Courier-Bold;\f5\froman\fcharset0 TimesNewRomanPSMT;
+\f6\froman\fcharset0 Times-Italic;\f7\froman\fcharset0 TimesNewRomanPS-ItalicMT;\f8\froman\fcharset0 Times-BoldItalic;
+\f9\fnil\fcharset0 HelveticaNeue;\f10\fnil\fcharset0 HelveticaNeue-Bold;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red109\green109\blue109;\red0\green0\blue233;
+\red255\green255\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c50196\c50196\c50196;\cssrgb\c0\c0\c93333;
+\cssrgb\c100000\c100000\c100000;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}}{\leveltext\leveltemplateid1\'01\'00;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}}{\leveltext\leveltemplateid101\'01\'00;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}}{\leveltext\leveltemplateid201\'01\'00;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid202\'01\uc0\u9702 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid402\'01\uc0\u9702 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid5}
+{\list\listtemplateid6\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}}{\leveltext\leveltemplateid501\'01\'00;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid502\'01\uc0\u9702 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid6}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww18500\viewh11660\viewkind0
+\deftab720
+\pard\pardeftab720\sa298\partightenfactor0
+
+\f0\fs36 \cf0 \expnd0\expndtw0\kerning0
+\uc0\u55356 \u57256 
+\f1\b  \uc0\u1052 \u1110 \u1085 \u1110 \u1084 \u1072 \u1083 \u1100 \u1085 \u1072  \u1050 \u1072 \u1089 \u1090 \u1086 \u1084 \u1110 \u1079 \u1072 \u1094 \u1110 \u1103  \u1043 \u1086 \u1090 \u1086 \u1074 \u1080 \u1093  \u1058 \u1077 \u1084  Rockbox \u1085 \u1072  iPod Classic 5\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\b0\fs24 \cf0 \uc0\u1058 \u1091 \u1090  \u1103  \u1088 \u1086 \u1079 \u1087 \u1086 \u1074 \u1110 \u1084 , \u1103 \u1082  \u1084 \u1086 \u1078 \u1085 \u1072  \u1084 \u1110 \u1085 \u1110 \u1084 \u1072 \u1083 \u1100 \u1085 \u1086  \u1082 \u1072 \u1089 \u1090 \u1086 \u1084 \u1110 \u1079 \u1091 \u1074 \u1072 \u1090 \u1080  \u1075 \u1086 \u1090 \u1086 \u1074 \u1110  \u1090 \u1077 \u1084 \u1080  \u1085 \u1072  iPod Classic 5 \u1079 \u1072  \u1076 \u1086 \u1087 \u1086 \u1084 \u1086 \u1075 \u1086 \u1102  \u1087 \u1088 \u1086 \u1096 \u1080 \u1074 \u1082 \u1080  
+\f1\b Rockbox
+\f2\b0 .\
+\uc0\u1044 \u1083 \u1103  \u1087 \u1086 \u1095 \u1072 \u1090 \u1082 \u1091  \u1085 \u1072 \u1084  \u1087 \u1086 \u1090 \u1088 \u1110 \u1073 \u1085 \u1086  \u1079 \u1072 \u1074 \u1072 \u1085 \u1090 \u1072 \u1078 \u1080 \u1090 \u1080  \u1075 \u1086 \u1090 \u1086 \u1074 \u1091  \u1090 \u1077 \u1084 \u1091 . \u1071  \u1074 \u1080 \u1082 \u1086 \u1088 \u1080 \u1089 \u1090 \u1086 \u1074 \u1091 \u1102  \u1090 \u1077 \u1084 \u1091  
+\f1\b iPodOS Theme Made by @churbum
+\f2\b0 . \uc0\u1042 \u1086 \u1085 \u1072  \u1084 \u1110 \u1089 \u1090 \u1080 \u1090 \u1100  \u1095 \u1086 \u1090 \u1080 \u1088 \u1080  \u1086 \u1089 \u1085 \u1086 \u1074 \u1085 \u1110  
+\f1\b \uc0\u1076 \u1080 \u1088 \u1077 \u1082 \u1090 \u1086 \u1088 \u1110 \u1111 
+\f2\b0 :\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls1\ilvl0
+\f3\fs26 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1	}\expnd0\expndtw0\kerning0
+fonts
+\f2\fs24  \'96 \uc0\u1064 \u1088 \u1080 \u1092 \u1090 \u1080 \
+\ls1\ilvl0
+\f3\fs26 \kerning1\expnd0\expndtw0 {\listtext	2	}\expnd0\expndtw0\kerning0
+icons
+\f2\fs24  \'96 \uc0\u1030 \u1082 \u1086 \u1085 \u1082 \u1080 \
+\ls1\ilvl0
+\f3\fs26 \kerning1\expnd0\expndtw0 {\listtext	3	}\expnd0\expndtw0\kerning0
+themes
+\f2\fs24  \'96 \uc0\u1058 \u1077 \u1084 \u1080 \
+\ls1\ilvl0
+\f3\fs26 \kerning1\expnd0\expndtw0 {\listtext	4	}\expnd0\expndtw0\kerning0
+wps
+\f2\fs24  \'96 While Playing Screen (\uc0\u1045 \u1082 \u1088 \u1072 \u1085  \u1087 \u1110 \u1076  \u1095 \u1072 \u1089  \u1074 \u1110 \u1076 \u1090 \u1074 \u1086 \u1088 \u1077 \u1085 \u1085 \u1103 )\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f1\b\fs28 \cf0 1. 
+\f4\fs30\fsmilli15210 fonts
+\f1\fs28 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\b0\fs24 \cf0 \uc0\u1059  \u1094 \u1110 \u1081  
+\f1\b \uc0\u1076 \u1080 \u1088 \u1077 \u1082 \u1090 \u1086 \u1088 \u1110 \u1111 
+\f2\b0  \uc0\u1079 \u1085 \u1072 \u1093 \u1086 \u1076 \u1103 \u1090 \u1100 \u1089 \u1103  \u1096 \u1088 \u1080 \u1092 \u1090 \u1080  \u1079  \u1088 \u1086 \u1079 \u1096 \u1080 \u1088 \u1077 \u1085 \u1085 \u1103 \u1084  
+\f1\b .fnt
+\f2\b0 , \uc0\u1103 \u1082 \u1110  \u1084 \u1080  \u1087 \u1088 \u1086 \u1089 \u1090 \u1086  \u1087 \u1077 \u1088 \u1077 \u1085 \u1086 \u1089 \u1080 \u1084 \u1086  \u1074  
+\f1\b \uc0\u1076 \u1080 \u1088 \u1077 \u1082 \u1090 \u1086 \u1088 \u1110 \u1102 
+\f2\b0  
+\f3\fs26 fonts
+\f2\fs24  \uc0\u1085 \u1072  iPod \u1110 \u1079  \u1074 \u1089 \u1090 \u1072 \u1085 \u1086 \u1074 \u1083 \u1077 \u1085 \u1080 \u1084  Rockbox.\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f1\b\fs28 \cf0 2. 
+\f4\fs30\fsmilli15210 icons
+\f1\fs28 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\b0\fs24 \cf0 \uc0\u1057 \u1072 \u1084 \u1077  \u1074  \u1090 \u1077 \u1084 \u1110  \'abiPodOS\'bb \u1079 \u1072  \u1079 \u1072 \u1084 \u1086 \u1074 \u1095 \u1091 \u1074 \u1072 \u1085 \u1085 \u1103 \u1084  \u1074 \u1080 \u1082 \u1086 \u1088 \u1080 \u1089 \u1090 \u1086 \u1074 \u1091 \u1102 \u1090 \u1100 \u1089 \u1103  \u1089 \u1090 \u1072 \u1085 \u1076 \u1072 \u1088 \u1090 \u1085 \u1110  \u1110 \u1082 \u1086 \u1085 \u1082 \u1080 . \u1054 \u1090 \u1078 \u1077 , \u1084 \u1080  \u1084 \u1086 \u1078 \u1077 \u1084 \u1086  \u1111 \u1093  \u1085 \u1072 \u1074 \u1110 \u1090 \u1100  \u1085 \u1077  \u1087 \u1077 \u1088 \u1077 \u1085 \u1086 \u1089 \u1080 \u1090 \u1080  \u1085 \u1072  iPod, \u1086 \u1089 \u1082 \u1110 \u1083 \u1100 \u1082 \u1080  \u1074 \u1086 \u1085 \u1080  \u1074 \u1078 \u1077  \u1087 \u1088 \u1080 \u1089 \u1091 \u1090 \u1085 \u1110  \u1091  \u1092 \u1072 \u1081 \u1083 \u1072 \u1093  \u1087 \u1088 \u1086 \u1096 \u1080 \u1074 \u1082 \u1080 , \u1072  \u1111 \u1093 \u1085 \u1110  \u1085 \u1072 \u1079 \u1074 \u1072  \u1090 \u1072  \u1087 \u1086 \u1089 \u1080 \u1083 \u1072 \u1085 \u1085 \u1103  \u1085 \u1072  \u1085 \u1080 \u1093  \u1079 \u1073 \u1110 \u1075 \u1072 \u1102 \u1090 \u1100 \u1089 \u1103 .\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f1\b\fs28 \cf0 3. 
+\f4\fs30\fsmilli15210 themes
+\f1\fs28 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\b0\fs24 \cf0 \uc0\u1062 \u1103  
+\f1\b \uc0\u1076 \u1080 \u1088 \u1077 \u1082 \u1090 \u1086 \u1088 \u1110 \u1103 
+\f2\b0  \uc0\u1079 \u1073 \u1077 \u1088 \u1110 \u1075 \u1072 \u1108  \u1092 \u1072 \u1081 \u1083  \u1079  \u1088 \u1086 \u1079 \u1096 \u1080 \u1088 \u1077 \u1085 \u1085 \u1103 \u1084  
+\f1\b .cfg
+\f2\b0 . \uc0\u1049 \u1086 \u1075 \u1086  \u1084 \u1086 \u1078 \u1085 \u1072  \u1082 \u1072 \u1089 \u1090 \u1086 \u1084 \u1110 \u1079 \u1091 \u1074 \u1072 \u1090 \u1080  \u1072 \u1073 \u1086  \u1087 \u1088 \u1086 \u1089 \u1090 \u1086  \u1087 \u1077 \u1088 \u1077 \u1075 \u1083 \u1103 \u1085 \u1091 \u1090 \u1080  \u1079 \u1072  \u1076 \u1086 \u1087 \u1086 \u1084 \u1086 \u1075 \u1086 \u1102  \u1090 \u1077 \u1082 \u1089 \u1090 \u1086 \u1074 \u1086 \u1075 \u1086  \u1088 \u1077 \u1076 \u1072 \u1082 \u1090 \u1086 \u1088 \u1072 , \u1085 \u1072 \u1087 \u1088 \u1080 \u1082 \u1083 \u1072 \u1076 , 
+\f1\b Visual Studio Code (VSC)
+\f2\b0 . \uc0\u1062 \u1077 \u1081  \u1092 \u1072 \u1081 \u1083  \u1084 \u1080  \u1087 \u1077 \u1088 \u1077 \u1085 \u1086 \u1089 \u1080 \u1084 \u1086  \u1074  
+\f1\b \uc0\u1076 \u1080 \u1088 \u1077 \u1082 \u1090 \u1086 \u1088 \u1110 \u1102 
+\f2\b0  
+\f3\fs26 themes
+\f2\fs24  \uc0\u1085 \u1072  iPod \u1079  Rockbox. (\u1052 \u1080  \u1073 \u1091 \u1076 \u1077 \u1084 \u1086  \u1087 \u1110 \u1079 \u1085 \u1110 \u1096 \u1077  \u1079  \u1085 \u1080 \u1084  \u1074 \u1079 \u1072 \u1108 \u1084 \u1086 \u1076 \u1110 \u1103 \u1090 \u1080 ).\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f1\b\fs28 \cf0 4. 
+\f4\fs30\fsmilli15210 wps
+\f1\fs28 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\fs24 \cf0 \uc0\u1044 \u1080 \u1088 \u1077 \u1082 \u1090 \u1086 \u1088 \u1110 \u1103 
+\f2\b0  
+\f3\fs26 wps
+\f2\fs24  \uc0\u1084 \u1110 \u1089 \u1090 \u1080 \u1090 \u1100 : \
+\uc0\u1072 . 
+\f1\b \uc0\u1044 \u1080 \u1088 \u1077 \u1082 \u1090 \u1086 \u1088 \u1110 \u1102 
+\f2\b0  
+\f3\fs26 iPodOS
+\f2\fs24  \'96 (\uc0\u1085 \u1072 \u1079 \u1074 \u1072  \u1090 \u1077 \u1084 \u1080 ). \u1059 \u1089 \u1077 \u1088 \u1077 \u1076 \u1080 \u1085 \u1110  \u1094 \u1110 \u1108 \u1111  
+\f1\b \uc0\u1076 \u1080 \u1088 \u1077 \u1082 \u1090 \u1086 \u1088 \u1110 \u1111 
+\f2\b0  \uc0\u1079 \u1085 \u1072 \u1093 \u1086 \u1076 \u1103 \u1090 \u1100 \u1089 \u1103  \u1092 \u1072 \u1081 \u1083 \u1080  \u1079  \u1088 \u1086 \u1079 \u1096 \u1080 \u1088 \u1077 \u1085 \u1085 \u1103 \u1084  
+\f1\b .bmp
+\f2\b0 . \uc0\u1062 \u1077  \u1088 \u1110 \u1079 \u1085 \u1110  \u1110 \u1082 \u1086 \u1085 \u1082 \u1080  \u1090 \u1072  \u1092 \u1086 \u1085 \u1086 \u1074 \u1110  \u1079 \u1086 \u1073 \u1088 \u1072 \u1078 \u1077 \u1085 \u1085 \u1103 . \
+\uc0\u1073 . \u1060 \u1072 \u1081 \u1083  \u1110 \u1079  \u1088 \u1086 \u1079 \u1096 \u1080 \u1088 \u1077 \u1085 \u1085 \u1103 \u1084  
+\f1\b .wps
+\f2\b0  \'96 \uc0\u1094 \u1077  \u1082 \u1086 \u1076  (\u1089 \u1082 \u1088 \u1080 \u1087 \u1090  \u1077 \u1082 \u1088 \u1072 \u1085 \u1091  \u1074 \u1110 \u1076 \u1090 \u1074 \u1086 \u1088 \u1077 \u1085 \u1085 \u1103 ).\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f0\fs28 \cf0 \uc0\u55357 \u57056 \u65039 
+\f1\b  \uc0\u1065 \u1086  \u1084 \u1080  \u1073 \u1091 \u1076 \u1077 \u1084 \u1086  \u1079 \u1084 \u1110 \u1085 \u1102 \u1074 \u1072 \u1090 \u1080 ?\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls2\ilvl0
+\f2\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1	}\expnd0\expndtw0\kerning0
+\uc0\u1047 \u1072 \u1084 \u1110 \u1085 \u1080 \u1084 \u1086  \u1082 \u1086 \u1083 \u1110 \u1088  \u1092 \u1086 \u1085 \u1091  \u1084 \u1077 \u1085 \u1102  (background color).\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	2	}\expnd0\expndtw0\kerning0
+\uc0\u1047 \u1072 \u1084 \u1110 \u1085 \u1080 \u1084 \u1086  \u1082 \u1086 \u1083 \u1110 \u1088  \u1090 \u1077 \u1082 \u1089 \u1090 \u1091  (foreground color).\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	3	}\expnd0\expndtw0\kerning0
+\uc0\u1047 \u1072 \u1084 \u1110 \u1085 \u1080 \u1084 \u1086  \u1082 \u1086 \u1083 \u1110 \u1088  \u1082 \u1091 \u1088 \u1089 \u1086 \u1088 \u1072 /\u1089 \u1077 \u1083 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072  (line selector start color).\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	4	}\expnd0\expndtw0\kerning0
+\uc0\u1047 \u1072 \u1084 \u1110 \u1085 \u1080 \u1084 \u1086  \u1082 \u1086 \u1083 \u1110 \u1088  \u1090 \u1077 \u1082 \u1089 \u1090 \u1091 , \u1082 \u1086 \u1083 \u1080  \u1085 \u1072  \u1085 \u1100 \u1086 \u1075 \u1086  \u1085 \u1072 \u1074 \u1077 \u1076 \u1077 \u1085 \u1086  \u1082 \u1091 \u1088 \u1089 \u1086 \u1088  (line selector text color).\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	5	}\expnd0\expndtw0\kerning0
+\uc0\u1047 \u1072 \u1084 \u1110 \u1085 \u1080 \u1084 \u1086  \u1092 \u1086 \u1085  \u1087 \u1088 \u1086 \u1075 \u1088 \u1072 \u1074 \u1072 \u1095 \u1072  (\u1074 \u1089 \u1090 \u1072 \u1085 \u1086 \u1074 \u1080 \u1084 \u1086  \u1110 \u1085 \u1096 \u1077  \u1079 \u1086 \u1073 \u1088 \u1072 \u1078 \u1077 \u1085 \u1085 \u1103  \u1085 \u1072  \u1077 \u1082 \u1088 \u1072 \u1085  \u1074 \u1110 \u1076 \u1090 \u1074 \u1086 \u1088 \u1077 \u1085 \u1085 \u1103  \u1084 \u1091 \u1079 \u1080 \u1082 \u1080 ).\
+\pard\pardeftab720\sa240\partightenfactor0
+\cf0 \uc0\u1055 \u1086 \u1095 \u1085 \u1110 \u1084 \u1086 !\
+\pard\pardeftab720\partightenfactor0
+\cf3 \
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f1\b\fs28 \cf0 \uc0\u1063 \u1072 \u1089 \u1090 \u1080 \u1085 \u1072  1: \u1047 \u1084 \u1110 \u1085 \u1072  \u1082 \u1086 \u1083 \u1100 \u1086 \u1088 \u1110 \u1074  (\u1055 \u1091 \u1085 \u1082 \u1090 \u1080  1\'964)\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\b0\fs24 \cf0 \uc0\u1044 \u1083 \u1103  \u1094 \u1100 \u1086 \u1075 \u1086  \u1085 \u1072 \u1084  \u1087 \u1086 \u1090 \u1088 \u1110 \u1073 \u1085 \u1086 :\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls3\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	1	}\expnd0\expndtw0\kerning0
+\uc0\u1042 \u1110 \u1076 \u1082 \u1088 \u1080 \u1090 \u1080  \u1092 \u1072 \u1081 \u1083  
+\f3\fs26 iPodOS.cfg
+\f2\fs24  \uc0\u1079 \u1072  \u1076 \u1086 \u1087 \u1086 \u1084 \u1086 \u1075 \u1086 \u1102  VSC.\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 {\listtext	2	}\expnd0\expndtw0\kerning0
+\uc0\u1047 \u1072 \u1081 \u1090 \u1080  \u1085 \u1072  \u1089 \u1072 \u1081 \u1090 , \u1103 \u1082 -\u1086 \u1090  {\field{\*\fldinst{HYPERLINK "https://colorscheme.ru/html-colors.html"}}{\fldrslt \cf4 \ul \ulc4 https://colorscheme.ru/html-colors.html}} (\uc0\u1072 \u1073 \u1086  \u1073 \u1091 \u1076 \u1100 -\u1103 \u1082 \u1080 \u1081  \u1110 \u1085 \u1096 \u1080 \u1081  \u1088 \u1077 \u1089 \u1091 \u1088 \u1089  \u1076 \u1083 \u1103  \u1086 \u1090 \u1088 \u1080 \u1084 \u1072 \u1085 \u1085 \u1103  
+\f1\b \uc0\u1096 \u1110 \u1089 \u1090 \u1085 \u1072 \u1076 \u1094 \u1103 \u1090 \u1082 \u1086 \u1074 \u1080 \u1093  HEX-\u1082 \u1086 \u1076 \u1110 \u1074 
+\f2\b0  \uc0\u1082 \u1086 \u1083 \u1100 \u1086 \u1088 \u1110 \u1074 ).\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sa240\partightenfactor0
+\ls3\ilvl1\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f5 \uc0\u9702 
+\f2 	}\expnd0\expndtw0\kerning0
+\uc0\u1053 \u1072 \u1087 \u1088 \u1080 \u1082 \u1083 \u1072 \u1076 , \u1076 \u1083 \u1103  \u1095 \u1077 \u1088 \u1074 \u1086 \u1085 \u1086 \u1075 \u1086  \u1082 \u1086 \u1083 \u1100 \u1086 \u1088 \u1091  \u1094 \u1077  \u1082 \u1086 \u1076 : 
+\f3\fs26 800000
+\f2\fs24 .\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b \cf0 \uc0\u1055 \u1088 \u1080 \u1082 \u1083 \u1072 \u1076  \u1079 \u1084 \u1110 \u1085 \u1080  \u1082 \u1086 \u1083 \u1100 \u1086 \u1088 \u1091  \u1092 \u1086 \u1085 \u1091  \u1084 \u1077 \u1085 \u1102 :
+\f2\b0 \
+\uc0\u1047 \u1085 \u1072 \u1081 \u1076 \u1110 \u1090 \u1100  \u1091  \u1092 \u1072 \u1081 \u1083 \u1110  \u1088 \u1103 \u1076 \u1086 \u1082 , \u1097 \u1086  \u1074 \u1110 \u1076 \u1087 \u1086 \u1074 \u1110 \u1076 \u1072 \u1108  \u1079 \u1072  \u1082 \u1086 \u1083 \u1110 \u1088  \u1092 \u1086 \u1085 \u1091 , \u1085 \u1072 \u1087 \u1088 \u1080 \u1082 \u1083 \u1072 \u1076 :\
+\pard\pardeftab720\partightenfactor0
+\cf0 \uc0\u1060 \u1088 \u1072 \u1075 \u1084 \u1077 \u1085 \u1090  \u1082 \u1086 \u1076 \u1091 \
+\
+
+\f3\fs26 background color: 000000\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\fs24 \cf0 \uc0\u1047 \u1072 \u1084 \u1110 \u1085 \u1110 \u1090 \u1100  
+\f1\b 000000
+\f2\b0  (\uc0\u1095 \u1086 \u1088 \u1085 \u1080 \u1081 ) \u1085 \u1072  \u1073 \u1072 \u1078 \u1072 \u1085 \u1080 \u1081  \u1082 \u1086 \u1076 , \u1085 \u1072 \u1087 \u1088 \u1080 \u1082 \u1083 \u1072 \u1076 , 
+\f1\b 800000
+\f2\b0  (\uc0\u1095 \u1077 \u1088 \u1074 \u1086 \u1085 \u1080 \u1081 ):\
+\pard\pardeftab720\partightenfactor0
+\cf0 \uc0\u1060 \u1088 \u1072 \u1075 \u1084 \u1077 \u1085 \u1090  \u1082 \u1086 \u1076 \u1091 \
+\
+
+\f3\fs26 background color: 800000\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls4\ilvl0
+\f2\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\uc0\u1058 \u1077 \u1087 \u1077 \u1088  \u1079 \u1073 \u1077 \u1088 \u1077 \u1078 \u1110 \u1090 \u1100  \u1079 \u1084 \u1110 \u1085 \u1080 : \u1085 \u1072 \u1090 \u1080 \u1089 \u1085 \u1110 \u1090 \u1100  
+\f1\b Command + S
+\f2\b0  (\uc0\u1085 \u1072  Mac) \u1072 \u1073 \u1086  
+\f1\b Control + S
+\f2\b0  (\uc0\u1085 \u1072  Windows).\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b \cf0 \uc0\u1040 \u1082 \u1090 \u1080 \u1074 \u1072 \u1094 \u1110 \u1103  \u1079 \u1084 \u1110 \u1085 :
+\f2\b0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls5\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\uc0\u1044 \u1072 \u1083 \u1110  \u1073 \u1077 \u1079 \u1087 \u1077 \u1095 \u1085 \u1086  
+\f1\b \uc0\u1074 \u1110 \u1076 \'92\u1108 \u1076 \u1085 \u1072 \u1081 \u1090 \u1077 
+\f2\b0  iPod \uc0\u1074 \u1110 \u1076  \u1082 \u1086 \u1084 \u1087 \'92\u1102 \u1090 \u1077 \u1088 \u1072 .\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\uc0\u1053 \u1072  iPod \u1087 \u1077 \u1088 \u1077 \u1081 \u1076 \u1110 \u1090 \u1100  \u1091  
+\f1\b Settings -> Theme Settings -> Browse Theme Files -> iPodOS
+\f2\b0 .\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sa240\partightenfactor0
+\ls5\ilvl1
+\f6\i \cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f7 \uc0\u9702 
+\f6 	}\expnd0\expndtw0\kerning0
+\uc0\u1062 \u1102  \u1076 \u1110 \u1102  \u1087 \u1086 \u1090 \u1088 \u1110 \u1073 \u1085 \u1086  \u1074 \u1080 \u1082 \u1086 \u1085 \u1091 \u1074 \u1072 \u1090 \u1080  \u1087 \u1110 \u1089 \u1083 \u1103  \u1082 \u1086 \u1078 \u1085 \u1086 \u1075 \u1086  \u1086 \u1085 \u1086 \u1074 \u1083 \u1077 \u1085 \u1085 \u1103  \u1090 \u1077 \u1084 \u1080 , \u1097 \u1086 \u1073  Rockbox \u1079 \u1072 \u1089 \u1090 \u1086 \u1089 \u1091 \u1074 \u1072 \u1074  \u1074 \u1072 \u1096 \u1110  \u1085 \u1086 \u1074 \u1086 \u1074 \u1074 \u1077 \u1076 \u1077 \u1085 \u1085 \u1103  \u1074  \u1082 \u1086 \u1076 \u1110 .
+\f2\i0 \
+\pard\pardeftab720\sa240\partightenfactor0
+\cf0 \uc0\u1058 \u1072 \u1082 \u1080 \u1084  \u1095 \u1080 \u1085 \u1086 \u1084  \u1074 \u1080  \u1084 \u1086 \u1078 \u1077 \u1090 \u1077  \u1079 \u1084 \u1110 \u1085 \u1102 \u1074 \u1072 \u1090 \u1080  \u1081  \u1110 \u1085 \u1096 \u1110  \u1087 \u1091 \u1085 \u1082 \u1090 \u1080  \u1079 \u1110  \u1089 \u1087 \u1080 \u1089 \u1082 \u1091  (\u1082 \u1086 \u1083 \u1110 \u1088  \u1090 \u1077 \u1082 \u1089 \u1090 \u1091 , \u1082 \u1086 \u1083 \u1110 \u1088  \u1082 \u1091 \u1088 \u1089 \u1086 \u1088 \u1072  \u1090 \u1086 \u1097 \u1086 ), \u1088 \u1077 \u1076 \u1072 \u1075 \u1091 \u1102 \u1095 \u1080  \u1074 \u1110 \u1076 \u1087 \u1086 \u1074 \u1110 \u1076 \u1085 \u1110  \u1088 \u1103 \u1076 \u1082 \u1080  \u1091  \u1092 \u1072 \u1081 \u1083 \u1110  
+\f3\fs26 iPodOS.cfg
+\f2\fs24 .\
+\pard\pardeftab720\partightenfactor0
+\cf3 \
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f1\b\fs28 \cf0 \uc0\u1063 \u1072 \u1089 \u1090 \u1080 \u1085 \u1072  2: \u1047 \u1084 \u1110 \u1085 \u1072  \u1092 \u1086 \u1085 \u1091  \u1087 \u1088 \u1086 \u1075 \u1088 \u1072 \u1074 \u1072 \u1095 \u1072  (\u1055 \u1091 \u1085 \u1082 \u1090  5)\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\b0\fs24 \cf0 \uc0\u1071  \u1079 \u1072 \u1083 \u1080 \u1096 \u1080 \u1074  \u1092 \u1086 \u1090 \u1086  \u1091  Google Drive, \u1085 \u1072  \u1103 \u1082 \u1077  \u1074 \u1080  \u1084 \u1086 \u1078 \u1077 \u1090 \u1077  \u1079 \u1072 \u1084 \u1110 \u1085 \u1080 \u1090 \u1080  \u1092 \u1086 \u1085  \u1087 \u1088 \u1086 \u1075 \u1088 \u1072 \u1074 \u1072 \u1095 \u1072 .\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls6\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	1	}\expnd0\expndtw0\kerning0
+\uc0\u1047 \u1072 \u1093 \u1086 \u1076 \u1080 \u1084 \u1086  \u1091  
+\f1\b \uc0\u1076 \u1080 \u1088 \u1077 \u1082 \u1090 \u1086 \u1088 \u1110 \u1102 
+\f2\b0  
+\f3\fs26 .rockbox/wps/iPodOS
+\f2\fs24 .\
+\ls6\ilvl0\kerning1\expnd0\expndtw0 {\listtext	2	}\expnd0\expndtw0\kerning0
+\uc0\u1047 \u1085 \u1072 \u1093 \u1086 \u1076 \u1080 \u1084 \u1086  \u1090 \u1072 \u1084  \u1092 \u1072 \u1081 \u1083  
+\f4\b\fs26 backdrop-wps.bmp
+\f2\b0\fs24  \'96 \uc0\u1094 \u1077  \u1087 \u1086 \u1090 \u1086 \u1095 \u1085 \u1080 \u1081  \u1092 \u1086 \u1085  \u1087 \u1088 \u1086 \u1075 \u1088 \u1072 \u1074 \u1072 \u1095 \u1072 .\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls6\ilvl0
+\f1\b \cf0 \kerning1\expnd0\expndtw0 {\listtext	3	}\expnd0\expndtw0\kerning0
+\uc0\u1050 \u1086 \u1087 \u1110 \u1102 \u1108 \u1084 \u1086  \u1085 \u1072 \u1079 \u1074 \u1091  \u1094 \u1100 \u1086 \u1075 \u1086  \u1092 \u1072 \u1081 \u1083 \u1091 
+\f2\b0  (
+\f3\fs26 backdrop-wps
+\f2\fs24 ).\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls6\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	4	}\expnd0\expndtw0\kerning0
+\uc0\u1047 \u1084 \u1110 \u1085 \u1102 \u1108 \u1084 \u1086  \u1085 \u1072 \u1079 \u1074 \u1091  \u1079 \u1072 \u1074 \u1072 \u1085 \u1090 \u1072 \u1078 \u1077 \u1085 \u1086 \u1075 \u1086  \u1074 \u1072 \u1084 \u1080  \u1092 \u1086 \u1090 \u1086  \u1085 \u1072  \u1090 \u1091 , \u1103 \u1082 \u1091  \u1074 \u1080  \u1089 \u1082 \u1086 \u1087 \u1110 \u1102 \u1074 \u1072 \u1083 \u1080  (
+\f3\fs26 backdrop-wps
+\f2\fs24 ). 
+\f1\b \uc0\u1062 \u1045  \u1042 \u1040 \u1046 \u1051 \u1048 \u1042 \u1054 !
+\f2\b0 \
+\ls6\ilvl0\kerning1\expnd0\expndtw0 {\listtext	5	}\expnd0\expndtw0\kerning0
+\uc0\u1042 \u1080 \u1076 \u1072 \u1083 \u1103 \u1108 \u1084 \u1086  \u1086 \u1088 \u1080 \u1075 \u1110 \u1085 \u1072 \u1083 \u1100 \u1085 \u1080 \u1081  \u1092 \u1072 \u1081 \u1083  
+\f3\fs26 backdrop-wps.bmp
+\f2\fs24  \uc0\u1110 \u1079  
+\f1\b \uc0\u1076 \u1080 \u1088 \u1077 \u1082 \u1090 \u1086 \u1088 \u1110 \u1111 
+\f2\b0  
+\f3\fs26 .rockbox/wps/iPodOS
+\f2\fs24  \uc0\u1090 \u1072  
+\f1\b \uc0\u1074 \u1089 \u1090 \u1072 \u1074 \u1083 \u1103 \u1108 \u1084 \u1086 
+\f2\b0  \uc0\u1085 \u1086 \u1074 \u1077  \u1092 \u1086 \u1090 \u1086  \u1079  \u1090 \u1072 \u1082 \u1086 \u1102  \u1078  \u1085 \u1072 \u1079 \u1074 \u1086 \u1102  (\u1090 \u1086 \u1073 \u1090 \u1086  \u1079 \u1072 \u1084 \u1110 \u1085 \u1102 \u1108 \u1084 \u1086  \u1092 \u1072 \u1081 \u1083 , \u1079 \u1073 \u1077 \u1088 \u1110 \u1075 \u1072 \u1102 \u1095 \u1080  \u1086 \u1088 \u1080 \u1075 \u1110 \u1085 \u1072 \u1083 \u1100 \u1085 \u1091  \u1085 \u1072 \u1079 \u1074 \u1091 ).\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sa240\partightenfactor0
+\ls6\ilvl1
+\f6\i \cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f7 \uc0\u9702 
+\f6 	}\expnd0\expndtw0\kerning0
+\uc0\u1055 \u1077 \u1088 \u1077 \u1082 \u1086 \u1085 \u1072 \u1081 \u1090 \u1077 \u1089 \u1103 , \u1097 \u1086  \u1074 \u1072 \u1096 \u1077  \u1085 \u1086 \u1074 \u1077  \u1079 \u1086 \u1073 \u1088 \u1072 \u1078 \u1077 \u1085 \u1085 \u1103  \u1084 \u1072 \u1108  \u1088 \u1086 \u1079 \u1096 \u1080 \u1088 \u1077 \u1085 \u1085 \u1103  
+\f8\b .bmp
+\f6\b0  \uc0\u1110  \u1074 \u1110 \u1076 \u1087 \u1086 \u1074 \u1110 \u1076 \u1072 \u1108  \u1088 \u1086 \u1079 \u1076 \u1110 \u1083 \u1100 \u1085 \u1110 \u1081  \u1079 \u1076 \u1072 \u1090 \u1085 \u1086 \u1089 \u1090 \u1110  \u1077 \u1082 \u1088 \u1072 \u1085 \u1072  iPod.
+\f2\i0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls6\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	6	}\expnd0\expndtw0\kerning0
+\uc0\u1044 \u1072 \u1083 \u1110  \u1073 \u1077 \u1079 \u1087 \u1077 \u1095 \u1085 \u1086  
+\f1\b \uc0\u1074 \u1110 \u1076 \'92\u1108 \u1076 \u1085 \u1072 \u1081 \u1090 \u1077 
+\f2\b0  iPod \uc0\u1074 \u1110 \u1076  \u1082 \u1086 \u1084 \u1087 \'92\u1102 \u1090 \u1077 \u1088 \u1072 .\
+\ls6\ilvl0\kerning1\expnd0\expndtw0 {\listtext	7	}\expnd0\expndtw0\kerning0
+\uc0\u1053 \u1072  iPod \u1087 \u1077 \u1088 \u1077 \u1081 \u1076 \u1110 \u1090 \u1100  \u1091  
+\f1\b Settings -> Theme Settings -> Browse Theme Files -> iPodOS
+\f2\b0 , \uc0\u1091 \u1074 \u1110 \u1084 \u1082 \u1085 \u1110 \u1090 \u1100  \u1090 \u1088 \u1077 \u1082  \u1110  \u1087 \u1086 \u1073 \u1072 \u1095 \u1080 \u1090 \u1077 , \u1097 \u1086  \u1092 \u1086 \u1085  \u1090 \u1077 \u1087 \u1077 \u1088  \u1110 \u1085 \u1096 \u1080 \u1081 .\
+\pard\tx720\pardeftab720\sa240\partightenfactor0
+\cf0 \
+
+\f1\b\fs26 Telegram channel: 
+\f2\b0 https://t.me/AppleNewsUkr
+\fs24 \
+
+\f9\fs26 \cb5 GitHub: {\field{\*\fldinst{HYPERLINK "https://github.com/DmytroListenin98"}}{\fldrslt https://github.com/DmytroListenin98}}
+\f2\fs24 \cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f10\b\fs26 \cf0 \cb5 Made by @DListenin.
+\fs30 \
+}
